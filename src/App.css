@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+/* ---------- Header ---------- */
+Header {
+   
+}
+Header .SubTitle {
+  margin: 0;
+  font-size: 12px;
+}
